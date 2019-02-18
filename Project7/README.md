@@ -3,10 +3,8 @@
 Using XQuery
 </h1>
 </center>
-<p>
-</p><hr>
-<p>
-</p><h2>Description</h2>
+<hr>
+<h2>Description</h2>
 <p>
 The purpose of this project is to learn XQuery.
 </p>
